@@ -1,3 +1,9 @@
-Something
+Line from internal
+Line from GitHub
+New hibrid string
 \n Second line
+<<<<<<< HEAD
 After stash
+=======
+
+>>>>>>> 0a76633e364805e977d4e1939194f70b77e6b1d1
